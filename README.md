@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **emilioriveramacias@gmail.com**
 
-- ⚡ Fun fact **Linux enthusiast, I run Arch by the way. I love working with complex programming languages like C and C++, understanding how things work at low level, using linux as my daily OS and learning new things every day.**
+- ⚡ Fun fact **I'm a Linux enthusiast (I run Arch by the way). I love working with complex programming languages like C and C++, understanding how things work at low level, using linux as my daily OS and learning new things every day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
