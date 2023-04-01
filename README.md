@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emilio Rivera Macías</h1>
 <h3 align="center">Computer System Engineer Student</h3>
 
-- 🔭 I’m currently working on **the design of a "Monitoring and Early Alert System for Sudden Cardiac Death in Elderly People"**
+- 🔭 I’m working on **the design of a "Monitoring and Early Alert System for Sudden Cardiac Death in Elderly People"**
 
-- 🌱 I’m currently learning **Back End, Linux, Relational and Non Relational Data Bases, Python (Pandas, Flask, Django), Java, C++, C (software and embedded systems) and ESP32 development.**
+- 🌱 Currently learning **Back End, Linux, Relational and Non Relational Data Bases, Python (Pandas, Flask, Django), Java, C++ and C (software and embedded systems).**
 
 - 📫 How to reach me **emilioriveramacias@gmail.com**
 
