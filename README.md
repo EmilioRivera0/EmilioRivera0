@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on **the design of a "Monitoring and Early Alert System for Sudden Cardiac Death in Elderly People"**
 
-- 🌱 Currently learning **Back End, Linux, Relational and Non Relational Data Bases, Python (Pandas, Flask, Django), Java, C++ and C (software and embedded systems).**
+- 🌱 Currently learning **Back End, Linux, Relational and Non Relational Data Bases, Python (Pandas, Flask, Django), Java, C++ and C.**
 
 - 📫 How to reach me **emilioriveramacias@gmail.com**
 
