@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emilio Rivera Macías</h1>
 <h3 align="center">Computer System Engineer Student</h3>
 
-- 🌱 Currently learning **Artifitial Neural Netowrks (Tensorflow, Keras, Scikit-Learn), Back End, Linux, Relational and Non Relational Data Bases, Python (Numpy, OpenCV, Pandas, Flask, Django & Matplotlib), Java, C++ and C.**
+- 🌱 Currently learning **C++, C#, C, Python (Numpy, OpenCV, Pandas & Matplotlib), Java, JS, TS, Bash, Back End (Flask, Django & Django REST Framework), Linux, Relational Data Bases, Non Relational Data Bases and Artifitial Neural Netowrks (Tensorflow, Keras, Scikit-Learn).**
 
-- 📫 How to reach me **emilioriveramacias@gmail.com**
+- 📫 How to reach me: **emilioriveramacias@gmail.com**
 
-- ⚡ Fun fact **I'm a Linux enthusiast (I run Arch by the way). I love working with complex programming languages like C and C++, understanding how things work at low level, using linux as my daily OS and learning new things every day.**
+- ⚡ Fun fact: **I'm a Linux enthusiast (I run Arch by the way). I love working with complex programming languages like C and C++, understanding how things work at low level, using linux as my daily OS and learning new things every day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
