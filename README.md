@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emilio Rivera Macías</h1>
 <h3 align="center">Computer System Engineer Student</h3>
 
-- 🌱 Currently learning **C++, C#, C, Python (Numpy, OpenCV, Pandas & Matplotlib), Java, JS, TS, Bash, Back End (Flask, Django & Django REST Framework), Linux, Relational Data Bases, Non Relational Data Bases and Artifitial Neural Netowrks (Tensorflow, Keras, Scikit-Learn).**
+- 🌱 Currently learning **C++, C# (.NET), C, Python (Numpy, OpenCV, Pandas & Matplotlib), Java, JS, TS, Bash, Back End (Flask, Django & Django REST Framework), Linux, Relational Data Bases, Non Relational Data Bases and Artifitial Neural Netowrks (Tensorflow, Keras, Scikit-Learn).**
 
 - 📫 How to reach me: **emilioriveramacias@gmail.com**
 
